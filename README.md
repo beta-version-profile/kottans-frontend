@@ -1,6 +1,6 @@
-# Kottans frontend course
+# Kottans frontend course 2019
 
-## Task 0 (get familiar with Git and Github)
+## Task 0 (Git Basics)
 
 I liked a lot Udemy git course. Especially materials about pull-request and branching was useful for me.
 And, here is my answers to three questions, which was listed in general requirements:
@@ -10,3 +10,11 @@ And, here is my answers to three questions, which was listed in general requirem
 - I was suprised, that is the thing like staging area exists in git. Also, the thing about octopus was surprising me too.
 
 - I totally will use all the things, that i learned during the course. But right now, i will use knowledge about pull-requests.
+
+## Task 1 (Linux CLI, and HTTP)
+
+![Screenshot](./task_linux_cli/Command_Line.png)
+
+- I liked the practice with the Bash
+- I learned a lot about the http protocol 
+- Right now, I will use 'get' requests to get the content of the pages.
