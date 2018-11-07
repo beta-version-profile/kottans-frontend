@@ -23,3 +23,7 @@ And, here is my answers to three questions, which was listed in general requirem
 
 ![Screenshot](./task_git_collaboration/1.png)
 ![Screenshot](./task_git_collaboration/2.png)
+
+- I learned how it`s to make squash.
+- I was surprised how easy it is to participate in the open source.
+- I will always do git pull before git push.
