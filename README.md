@@ -18,3 +18,8 @@ And, here is my answers to three questions, which was listed in general requirem
 - I liked the practice with the Bash
 - I learned a lot about the http protocol 
 - Right now, I will use 'get' requests to get the content of the pages.
+
+## Task 2 (Git Collaboration)
+
+![Screenshot](./task_git_collaboration/1.png)
+![Screenshot](./task_git_collaboration/2.png)
