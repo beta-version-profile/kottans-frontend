@@ -32,3 +32,5 @@ And, here is my answers to three questions, which was listed in general requirem
 
 ![Screenshot](./task_git_html_css_intro/1.png)
 ![Screenshot](./task_git_html_css_intro/2.png)
+
+> It was interesting, well, very easy
