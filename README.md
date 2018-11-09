@@ -33,4 +33,11 @@ And, here is my answers to three questions, which was listed in general requirem
 ![Screenshot](./task_git_html_css_intro/1.png)
 ![Screenshot](./task_git_html_css_intro/2.png)
 
-> It was interesting, well, very easy
+> It was interesting, well, very easy.
+
+## Task 4: Responsive Web Design
+
+![Screenshot](./task_responsive_web_design/1.png)
+![Screenshot](./task_responsive_web_design/2.png)
+
+I didn't learn anything new, just remembered about flex and media query.
