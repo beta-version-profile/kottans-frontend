@@ -41,3 +41,8 @@ And, here is my answers to three questions, which was listed in general requirem
 ![Screenshot](./task_responsive_web_design/2.png)
 
 I didn't learn anything new, just remembered about flex and media query.
+
+## Task 5: JS Basics
+
+![Screenshot](./task_js_basics/1.png)
+![Screenshot](./task_js_basics/2.png)
