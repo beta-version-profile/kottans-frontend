@@ -16,7 +16,7 @@ And, here is my answers to three questions, which was listed in general requirem
 ![Screenshot](./task_linux_cli/Command_Line.png)
 
 - I liked the practice with the Bash
-- I learned a lot about the http protocol 
+- I learned a lot about the http protocol
 - Right now, I will use 'get' requests to get the content of the pages.
 
 ## Task 2: Git Collaboration
@@ -46,3 +46,8 @@ I didn't learn anything new, just remembered about flex and media query.
 
 ![Screenshot](./task_js_basics/1.png)
 ![Screenshot](./task_js_basics/2.png)
+
+## Task 6: DOM
+
+![Screenshot](./task_js_dom/1.png)
+![Screenshot](./task_js_dom/2.png)
