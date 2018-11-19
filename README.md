@@ -1,6 +1,8 @@
 # Kottans frontend course 2019
 
-## Task 0: Git Basics
+## General Basics
+
+### Task 0: Git Basics
 
 I liked a lot Udemy git course. Especially materials about pull-request and branching was useful for me.
 And, here is my answers to three questions, which was listed in general requirements:
@@ -11,7 +13,7 @@ And, here is my answers to three questions, which was listed in general requirem
 
 - I totally will use all the things, that i learned during the course. But right now, i will use knowledge about pull-requests.
 
-## Task 1: Linux CLI, and HTTP
+### Task 1: Linux CLI, and HTTP
 
 ![Screenshot](./task_linux_cli/Command_Line.png)
 
@@ -19,7 +21,7 @@ And, here is my answers to three questions, which was listed in general requirem
 - I learned a lot about the http protocol
 - Right now, I will use 'get' requests to get the content of the pages.
 
-## Task 2: Git Collaboration
+### Task 2: Git Collaboration
 
 ![Screenshot](./task_git_collaboration/1.png)
 ![Screenshot](./task_git_collaboration/2.png)
@@ -28,26 +30,48 @@ And, here is my answers to three questions, which was listed in general requirem
 - I was surprised how easy it is to participate in the open source.
 - I will always do git pull before git push.
 
-## Task 3: Intro to HTML and CSS
+
+## Front-End Basics
+### Task 3: Intro to HTML and CSS
 
 ![Screenshot](./task_git_html_css_intro/1.png)
 ![Screenshot](./task_git_html_css_intro/2.png)
 
 > It was interesting, well, very easy.
 
-## Task 4: Responsive Web Design
+### Task 4: Responsive Web Design
 
 ![Screenshot](./task_responsive_web_design/1.png)
 ![Screenshot](./task_responsive_web_design/2.png)
 
 I didn't learn anything new, just remembered about flex and media query.
 
-## Task 5: JS Basics
+### Task 5: JS Basics
 
 ![Screenshot](./task_js_basics/1.png)
 ![Screenshot](./task_js_basics/2.png)
 
-## Task 6: DOM
+### Task 6: DOM
 
 ![Screenshot](./task_js_dom/1.png)
 ![Screenshot](./task_js_dom/2.png)
+
+> [demo](https://beta-version-profile.github.io/js-dom)
+> [code base](https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/beta-version-profile/js-dom)
+
+Reviewed and approved by @OleksiyRudenko.
+
+
+## Advanced Topics
+
+### Task 7: A Tiny JS World 
+
+> [demo](https://beta-version-profile.github.io/a-tiny-JS-world)
+> [code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/beta-version-profile/a-tiny-JS-world_/index.js)
+
+Reviewed and approved by @OleksiyRudenko.
+
+## Task 8: Object Oriented JS
+
+![Screenshot](./task_js_oop/1.png)
+![Screenshot](./task_js_oop/2.png)
