@@ -1,3 +1,4 @@
+[![Kottans-Student-Course-progress-5](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Course%20Top--5%20performer-green.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
 # Kottans frontend course 2019
 
 ## General Basics
@@ -75,3 +76,20 @@ Reviewed and approved by @OleksiyRudenko.
 
 ![Screenshot](./task_js_oop/1.png)
 ![Screenshot](./task_js_oop/2.png)
+
+## Task 9: OOP exercise
+[Demo](http://reminiscent-sail.surge.sh) |
+[Code base](https://github.com/beta-version-profile/frontend-2019-homeworks/tree/oop_exercise/submissions/beta-version-profile/oop_exercies)
+
+Reviewed and approved by @AMashoshyna 
+
+## Task 11: Memory – Pair Game
+[Demo](http://used-trouble.surge.sh) |
+[Code base](https://github.com/beta-version-profile/frontend-2019-homeworks/tree/memory%E2%80%93pair_game/submissions/beta-version-profile/memory-pair_game)
+Reviewed and approved by @zonzujiro 
+
+## Task 13: Friends App
+[Demo](http://obeisant-love.surge.sh) |
+[Code base](https://github.com/beta-version-profile/frontend-2019-homeworks/tree/friends-app/submissions/beta-version-profile/friends_app)
+
+Reviewed and approved by @zonzujiro
